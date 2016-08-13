@@ -1,0 +1,5 @@
+com/heinrichs/email/controllers/EmailController.class
+com/heinrichs/email/EmailTemplatePocApplication.class
+com/heinrichs/email/services/EmailService.class
+com/heinrichs/email/ServletInitializer.class
+com/heinrichs/email/domain/User.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.heinrichs.email.EmailTemplatePocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.865 sec - in com.heinrichs.email.EmailTemplatePocApplicationTests
